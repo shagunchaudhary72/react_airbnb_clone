@@ -1,0 +1,26 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.homeMainDiv{
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+
+}
+.homeCardSection{
+   
+    margin: 0 2rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.homeCardSectionSecond{
+    margin: 0 2rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
